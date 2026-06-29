@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chenzhenglin2
-- 👀 I’m interested in JavaScript vuejs linux  
+- 👀 I’m interested in JavaScript vuejs linux  java 
 - 📫 How to reach me ...
   zzti.chenzhenglin@163.com
 <!---
